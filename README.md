@@ -1,5 +1,5 @@
 📊 Predicting the Success of Bank Telemarketing Campaign
-🔍 Overview
+
 
 This project predicts whether a customer will subscribe to a term deposit using data from a bank telemarketing campaign.
 
